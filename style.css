@@ -1,4 +1,11 @@
 h1{
-    color:aqua;
+    color:rgb(100, 207, 207);
     text-align: center;
+}
+body{
+    background-color: rgba(68, 64, 64, 0.808);
+}
+p{
+    color:rgb(218, 207, 230);
+    font-size:4mm;
 }
