@@ -1,11 +1,13 @@
 h1{
-    color:rgb(100, 207, 207);
+    color:#FEFFFF;
     text-align: center;
 }
 body{
-    background-color: rgba(68, 64, 64, 0.808);
+    background-color:#222629;
 }
 p{
-    color:rgb(218, 207, 230);
-    font-size:4mm;
+    color:#6B6E70;
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
