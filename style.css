@@ -33,7 +33,7 @@ button:hover
     text-align: center;
 }*/
 
-tablink{
+.tablink{
     background-color: #555;
   color: white;
   float: left;
