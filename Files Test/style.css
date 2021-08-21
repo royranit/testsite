@@ -6,13 +6,13 @@ body{
     margin-top:20px;
 }
 .container{
-    width:80%;
-    margin: 0 auto;
+    width:110%;
+    margin-left: 20px ;
     
 }
 header{
     background-color:#17252A;
-    border-radius: 20px;
+    border-radius: 40px;
 }
 header::after
 {
@@ -33,7 +33,7 @@ nav ul{
 
 nav li{
     display: inline-block;
-    width:110px;
+    width:180px;
     margin-left: 20px;
     padding-top:23px;
     padding-bottom: 23px;
