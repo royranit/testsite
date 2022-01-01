@@ -6,7 +6,7 @@ body{
 }
 
 .box{
-    width:450px;
+    width:550px;
     background:rgba(2,2,2,0.3);
     padding:40px;
     text-align: center;
@@ -38,3 +38,22 @@ body{
 .box p{
     text-align: justify;
 }
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+.box li{
+    display: inline-block;
+    margin:20px;
+    list-style:none;
+}
+
+.box li i{
+    color: #EDF5E1;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
