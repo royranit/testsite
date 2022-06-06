@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     background:url(Images/Background.jpg);
-    background-size:auto;
+    background-size:100%;
 }
 
 .box{
